@@ -1,4 +1,5 @@
 node_modules
+backend.json
 
 # CDK asset staging directory
 .cdk.staging
